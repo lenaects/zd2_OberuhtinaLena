@@ -1,0 +1,10 @@
+C:\Users\305-8\Desktop\oberuhtinapr21\zd2_OberuhtinaLena\obj\Debug\zd2_OberuhtinaLena.Form1.resources
+C:\Users\305-8\Desktop\oberuhtinapr21\zd2_OberuhtinaLena\obj\Debug\zd2_OberuhtinaLena.Properties.Resources.resources
+C:\Users\305-8\Desktop\oberuhtinapr21\zd2_OberuhtinaLena\obj\Debug\zd2_OberuhtinaLena.csproj.GenerateResource.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\zd2_OberuhtinaLena\obj\Debug\zd2_OberuhtinaLena.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\zd2_OberuhtinaLena\bin\Debug\zd2_OberuhtinaLena.exe.config
+C:\Users\305-8\Desktop\oberuhtinapr21\zd2_OberuhtinaLena\bin\Debug\zd2_OberuhtinaLena.exe
+C:\Users\305-8\Desktop\oberuhtinapr21\zd2_OberuhtinaLena\bin\Debug\zd2_OberuhtinaLena.pdb
+C:\Users\305-8\Desktop\oberuhtinapr21\zd2_OberuhtinaLena\obj\Debug\zd2_OberuhtinaLena.exe
+C:\Users\305-8\Desktop\oberuhtinapr21\zd2_OberuhtinaLena\obj\Debug\zd2_OberuhtinaLena.pdb
+C:\Users\305-8\Desktop\oberuhtinapr21\zd2_OberuhtinaLena\obj\Debug\zd2_OberuhtinaLena.csproj.AssemblyReference.cache
